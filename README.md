@@ -2,6 +2,8 @@
 # Flutter BMI Calculator Demo
 This repository contains a simple Body Mass Index (BMI) calculator built using Flutter. It serves as a demo project completed during a Flutter course and showcases basic functionalities of the framework.
 
+![BMI Calculator](docs/screenshot.png)
+
 ## Features:
 
 * User input fields for weight and height.
